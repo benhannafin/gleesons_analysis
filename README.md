@@ -223,27 +223,27 @@ gleesons-pub-sales-dashboard/
 
 ### Executive Summary
 
-![Executive Summary](screenshots/executive_summary.png)
+![Executive Summary](screenshots/ExecutiveSummary.png)
 
 ### Product Performance
 
-![Product Performance](screenshots/product_performance.png)
+![Product Performance](screenshots/ProductPerformance.png)
 
 ### Time-Based Sales Analysis
 
-![Time-Based Sales Analysis](screenshots/time_analysis.png)
+![Time-Based Sales Analysis](screenshots/TimeAnalysis.png)
 
 ### Staff Performance
 
-![Staff Performance](screenshots/staff_performance.png)
+![Staff Performance](screenshots/StaffPerformance.png)
 
 ### Profitability Analysis
 
-![Profitability Analysis](screenshots/profitability_analysis.png)
+![Profitability Analysis](screenshots/ProfitabilityAnalysis.png)
 
 ### Management Recommendations
 
-![Management Recommendations](screenshots/management_recommendations.png)
+![Management Recommendations](screenshots/ManagementRecommendations.png)
 
 
 
