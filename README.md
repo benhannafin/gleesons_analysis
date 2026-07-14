@@ -10,7 +10,6 @@ The main aim was to make sales data easier to understand and use it to support r
 
 The dashboard was originally built using real POS sales data from Gleesons. For privacy reasons, the real dataset is not included in this public repository. A simulated dataset is included instead to show how the dashboard works.
 
----
 
 ## Why Did I Build This?
 
@@ -25,7 +24,6 @@ I wanted to use Power BI and the analysis skills I had developed to answer some 
 
 The project was built to turn raw POS data into a simple dashboard that could support decision-making.
 
----
 
 ## Core Finding: Beamish vs Guinness
 
@@ -39,7 +37,6 @@ This suggested that Beamish was not creating much additional revenue. Instead, i
 
 As a result, Beamish was removed from the pub in July 2026.
 
----
 
 ## Business Impact
 
@@ -54,7 +51,6 @@ The dashboard helped show that:
 
 This supported the decision to remove Beamish from the pub and focus on Guinness as the stronger performing drink.
 
----
 
 ## Recommendation
 
@@ -66,7 +62,6 @@ Beamish appeared to replace Guinness sales rather than add meaningful new sales,
 
 This made Beamish a simply weaker product.
 
----
 
 ## Dataset
 
@@ -89,7 +84,6 @@ The public dataset includes fields such as:
 * Cost
 * Profit
 
----
 
 ## Data Privacy
 
@@ -99,7 +93,6 @@ No customer data, payment information, private business figures, or original com
 
 The public dataset is simulated and is included only to demonstrate the dashboard structure and analysis approach.
 
----
 
 ## Tools Used
 
@@ -109,7 +102,6 @@ The public dataset is simulated and is included only to demonstrate the dashboar
 * CSV / Excel
 * GitHub
 
----
 
 ## Dashboard Pages
 
@@ -122,7 +114,6 @@ The dashboard includes six pages:
 5. Profitability Analysis
 6. Management Recommendations
 
----
 
 ## What the Dashboard Shows
 
@@ -136,7 +127,6 @@ A quick overview of the main KPIs:
 * Average Transaction Value
 * Total Units Sold
 
----
 
 ### Product Performance
 
@@ -149,7 +139,6 @@ This includes:
 * Top products by profit
 * Product category performance
 
----
 
 ### Time-Based Sales Analysis
 
@@ -162,7 +151,6 @@ This includes:
 * Monthly trends
 * Busy and quiet trading periods
 
----
 
 ### Staff Performance
 
@@ -176,7 +164,6 @@ This includes:
 
 This page is used as an overview only, as staff results can depend on which shifts they worked.
 
----
 
 ### Profitability Analysis
 
@@ -188,13 +175,11 @@ This helps show:
 * Which products have weaker performance
 * Whether new products are adding sales or taking sales from stronger products
 
----
 
 ### Management Recommendations
 
 This page summarises the main action from the analysis:
 
----
 
 ## Repository Structure
 
@@ -221,7 +206,6 @@ gleesons-pub-sales-dashboard/
 └── README.md
 ```
 
----
 
 ## Screenshots
 
@@ -249,7 +233,6 @@ gleesons-pub-sales-dashboard/
 
 ![Management Recommendations](screenshots/management_recommendations.png)
 
----
 
 ## How to Use This Project
 
@@ -259,7 +242,6 @@ gleesons-pub-sales-dashboard/
 4. Use the slicers to filter the data.
 5. Read the report for a short summary of the finding and recommendation.
 
----
 
 ## Future Improvements
 
