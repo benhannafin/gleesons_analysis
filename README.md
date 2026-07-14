@@ -67,7 +67,7 @@ This made Beamish a simply weaker product.
 
 The dashboard was developed using real POS sales data from Gleesons.
 
-The real dataset is not included in this GitHub repository because it contains private business information. Instead, I have included a simulated/anonymised dataset with the same structure.
+The real dataset is not included in this GitHub repository because it contains private business information. Instead, I have included a simulated dataset with the same structure.
 
 The public dataset includes fields such as:
 
