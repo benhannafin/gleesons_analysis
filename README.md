@@ -243,7 +243,7 @@ gleesons-pub-sales-dashboard/
 
 ### Management Recommendations
 
-![Management Recommendations](screenshots/ManagementRecommendations.png)
+![Management Recommendations](screenshots/ManagementReccomendations.png)
 
 
 
