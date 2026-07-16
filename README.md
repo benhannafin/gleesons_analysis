@@ -34,7 +34,7 @@ The main finding from the dashboard was that Beamish appeared to be taking sales
 
 Beamish was introduced in early December 2025. After it was introduced, Guinness sales started to decline.
 
-When I compared the months from January to May, the revenue gained from Beamish roughly offset the revenue lost from Guinness. However, Beamish generated around 11% less revenue per pint than Guinness. This insight was clearly visible on the dashboard.
+When I compared the months from December to May, the revenue gained from Beamish roughly offset the revenue lost from Guinness. However, Beamish generated around 11% less revenue per pint than Guinness. This insight was clearly visible on the dashboard.
 
 This suggested that Beamish was not creating much additional revenue. Instead, it appeared to be replacing Guinness sales with a lower revenue product.
 
