@@ -195,7 +195,7 @@ This page summarises the main action from the analysis:
 ## Repository Structure
 
 ```text
-gleesons_analysis/
+gleesons-pub-sales-analytics-dashboard/
 │
 ├── data/
 │   └── pub_sales_data.csv
