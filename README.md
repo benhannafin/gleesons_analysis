@@ -187,7 +187,7 @@ This helps show:
 
 ### Management Recommendations
 
-This page summarises the main action from the analysis:
+This page summarises the main action from the analysis.
 
 
 
